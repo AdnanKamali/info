@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "eb4f20304c3a7767fdf1eb78aebf1caa",
+  "app.py": "f57677db689aa7481d697ee41b77ece7",
+"assets/AssetManifest.json": "eb4f20304c3a7767fdf1eb78aebf1caa",
 "assets/assets/images/adnan.jpg": "c7cd4d22459f56671a59edc532c60bf1",
 "assets/assets/images/email.svg": "5e07d893abb36b1f5d2d73072bc2eec4",
 "assets/assets/images/github.svg": "6976da09df9475a6ef0af082194aab47",
@@ -22,8 +23,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ef2cc23b9c45e555746464c0c7084b28",
-"/": "ef2cc23b9c45e555746464c0c7084b28",
+"index.html": "63ba6dc616f43c9ce6e62c5bc0f999e0",
+"/": "63ba6dc616f43c9ce6e62c5bc0f999e0",
 "main.dart.js": "e79aa53cf8bb3bd054211f1b470da6f8",
 "manifest.json": "5d775b44cd93d8f2528cf815be526c8a",
 "version.json": "69346249e9faed573f709f5684f17740"
