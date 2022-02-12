@@ -35591,7 +35591,7 @@ b=p}}B.b.p(j.b,b,a)}}
 A.l6.prototype={
 aL(){return new A.Gq(A.XI(),null,B.m)}}
 A.Gq.prototype={
-b0(){this.e="Hi I am Adnan Kamali and I am 19 years old. I started programming with Python at the age of 17 and I realized that I am interested in mobile programming, so I continued with Flutter and I am still learning this great framework and I am progressing."
+b0(){this.e="Hi I am Adnan Kamali and I am 20 years old. I started programming with Python at the age of 17 and I realized that I am interested in mobile programming, so I continued with Flutter and I am still learning this great framework and I am progressing."
 this.bK()},
 p8(a,b,c){var s,r,q,p,o,n=null,m=t.w,l=this.c.R(m).f.a.b,k=this.c.R(m).f.a.a
 m=l*0.025
