@@ -1,3 +1,0 @@
-git remote origin site
-git branch -M main
-git push -u origin main
