@@ -1,0 +1,89 @@
+body {
+  background-color: #132f4a;
+  /* margin: 1rem; */
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+p {
+  font-size: 1.5rem;
+  margin: 1.5rem;
+}
+
+#head-main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#head-main img {
+  width: 6.25rem;
+  padding: 1rem;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#head-main li:nth-of-type(1) {
+  color: #797979;
+}
+#head-main li:nth-of-type(3) {
+  color: #788ba6;
+}
+
+#midle-main {
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  width: fit-content;
+  padding: 0;
+}
+
+.info {
+  display: flex;
+  text-align: start;
+  /* width: 100%; */
+  justify-content: start;
+}
+
+.info p {
+  color: white;
+  /* width: 10rem; */
+  text-align: start;
+}
+
+.info img {
+  width: 3.5rem;
+  filter: invert(100%) sepia(1%) saturate(1184%) hue-rotate(161deg)
+    brightness(115%) contrast(100%);
+}
+
+@media (max-width: 1023px) {
+  p {
+    font-size: 3rem;
+  }
+  .info {
+    margin: 3rem 0;
+  }
+  .info img {
+    width: 5rem;
+  }
+  #head-main img {
+    width: 16rem;
+  }
+}
+
+/* 
+const Color bgScreenColor = Color(0xff132f4a);
+const Color flutterDevColor = Color(0xff797979);
+const Color aboutMeBtnColor = Color(0xff36487A);
+const Color aboutMeTextColor = Color(0xff788BA6);
+const Color bgAboutMeContentColor = Color(0xffEEBEBE);
+const Color adnanColor = Color(0xffCEC4DC); 
+*/
